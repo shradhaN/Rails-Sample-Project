@@ -2,30 +2,74 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="520c2edc-4cef-480d-980d-62c3f0c33b51" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/microposts/_micropost.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/shared/_feed.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/shared/_micropost_form.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/shared/_user_info.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/static_pages/_micropost_form_home.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/static_pages/_welcome.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.rakeTasks" afterPath="$PROJECT_DIR$/.idea/.rakeTasks" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/sample_app.iml" afterPath="$PROJECT_DIR$/.idea/sample_app.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/stylesheets/custom.scss" afterPath="$PROJECT_DIR$/app/assets/stylesheets/custom.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/application_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/application_controller.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/static_pages_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/static_pages_controller.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/users_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/users_controller.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/user.rb" afterPath="$PROJECT_DIR$/app/models/user.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/password_resets/edit.html.erb" afterPath="$PROJECT_DIR$/app/views/password_resets/edit.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/shared/_error_messages.html.erb" afterPath="$PROJECT_DIR$/app/views/shared/_error_messages.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/static_pages/home.html.erb" afterPath="$PROJECT_DIR$/app/views/static_pages/home.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/users/_form.html.erb" afterPath="$PROJECT_DIR$/app/views/users/_form.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/users/show.html.erb" afterPath="$PROJECT_DIR$/app/views/users/show.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/routes.rb" afterPath="$PROJECT_DIR$/config/routes.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/schema.rb" afterPath="$PROJECT_DIR$/db/schema.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/seeds.rb" afterPath="$PROJECT_DIR$/db/seeds.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/integration/password_resets_test.rb" afterPath="$PROJECT_DIR$/test/integration/password_resets_test.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/models/user_test.rb" afterPath="$PROJECT_DIR$/test/models/user_test.rb" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ImageMagick-7.0.8-14/MagickWand/.deps/MagickWand_libMagickWand_7_Q16HDRI_la-convert.Tpo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/micropost/picture/308/chap9.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ImageMagick-7.0.8-14/Magick++/demo/.deps/Magick___demo_analyze-analyze.Po" afterPath="$PROJECT_DIR$/ImageMagick-7.0.8-14/Magick++/demo/.deps/Magick___demo_analyze-analyze.Po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ImageMagick-7.0.8-14/Magick++/demo/.deps/Magick___demo_button-button.Po" afterPath="$PROJECT_DIR$/ImageMagick-7.0.8-14/Magick++/demo/.deps/Magick___demo_button-button.Po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ImageMagick-7.0.8-14/Magick++/demo/.deps/Magick___demo_demo-demo.Po" afterPath="$PROJECT_DIR$/ImageMagick-7.0.8-14/Magick++/demo/.deps/Magick___demo_demo-demo.Po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ImageMagick-7.0.8-14/Magick++/demo/.deps/Magick___demo_detrans-detrans.Po" afterPath="$PROJECT_DIR$/ImageMagick-7.0.8-14/Magick++/demo/.deps/Magick___demo_detrans-detrans.Po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ImageMagick-7.0.8-14/Magick++/demo/.deps/Magick___demo_flip-flip.Po" afterPath="$PROJECT_DIR$/ImageMagick-7.0.8-14/Magick++/demo/.deps/Magick___demo_flip-flip.Po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ImageMagick-7.0.8-14/Magick++/demo/.deps/Magick___demo_gravity-gravity.Po" afterPath="$PROJECT_DIR$/ImageMagick-7.0.8-14/Magick++/demo/.deps/Magick___demo_gravity-gravity.Po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ImageMagick-7.0.8-14/Magick++/demo/.deps/Magick___demo_piddle-piddle.Po" afterPath="$PROJECT_DIR$/ImageMagick-7.0.8-14/Magick++/demo/.deps/Magick___demo_piddle-piddle.Po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ImageMagick-7.0.8-14/Magick++/demo/.deps/Magick___demo_shapes-shapes.Po" afterPath="$PROJECT_DIR$/ImageMagick-7.0.8-14/Magick++/demo/.deps/Magick___demo_shapes-shapes.Po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ImageMagick-7.0.8-14/Magick++/demo/.deps/Magick___demo_zoom-zoom.Po" afterPath="$PROJECT_DIR$/ImageMagick-7.0.8-14/Magick++/demo/.deps/Magick___demo_zoom-zoom.Po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ImageMagick-7.0.8-14/Magick++/lib/.deps/Magick___lib_libMagick___7_Q16HDRI_la-Blob.Plo" afterPath="$PROJECT_DIR$/ImageMagick-7.0.8-14/Magick++/lib/.deps/Magick___lib_libMagick___7_Q16HDRI_la-Blob.Plo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ImageMagick-7.0.8-14/Magick++/lib/.deps/Magick___lib_libMagick___7_Q16HDRI_la-BlobRef.Plo" afterPath="$PROJECT_DIR$/ImageMagick-7.0.8-14/Magick++/lib/.deps/Magick___lib_libMagick___7_Q16HDRI_la-BlobRef.Plo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ImageMagick-7.0.8-14/Magick++/lib/.deps/Magick___lib_libMagick___7_Q16HDRI_la-CoderInfo.Plo" afterPath="$PROJECT_DIR$/ImageMagick-7.0.8-14/Magick++/lib/.deps/Magick___lib_libMagick___7_Q16HDRI_la-CoderInfo.Plo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ImageMagick-7.0.8-14/Magick++/lib/.deps/Magick___lib_libMagick___7_Q16HDRI_la-Color.Plo" afterPath="$PROJECT_DIR$/ImageMagick-7.0.8-14/Magick++/lib/.deps/Magick___lib_libMagick___7_Q16HDRI_la-Color.Plo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ImageMagick-7.0.8-14/Magick++/lib/.deps/Magick___lib_libMagick___7_Q16HDRI_la-Drawable.Plo" afterPath="$PROJECT_DIR$/ImageMagick-7.0.8-14/Magick++/lib/.deps/Magick___lib_libMagick___7_Q16HDRI_la-Drawable.Plo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ImageMagick-7.0.8-14/Magick++/lib/.deps/Magick___lib_libMagick___7_Q16HDRI_la-Exception.Plo" afterPath="$PROJECT_DIR$/ImageMagick-7.0.8-14/Magick++/lib/.deps/Magick___lib_libMagick___7_Q16HDRI_la-Exception.Plo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ImageMagick-7.0.8-14/Magick++/lib/.deps/Magick___lib_libMagick___7_Q16HDRI_la-Functions.Plo" afterPath="$PROJECT_DIR$/ImageMagick-7.0.8-14/Magick++/lib/.deps/Magick___lib_libMagick___7_Q16HDRI_la-Functions.Plo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ImageMagick-7.0.8-14/Magick++/lib/.deps/Magick___lib_libMagick___7_Q16HDRI_la-Geometry.Plo" afterPath="$PROJECT_DIR$/ImageMagick-7.0.8-14/Magick++/lib/.deps/Magick___lib_libMagick___7_Q16HDRI_la-Geometry.Plo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ImageMagick-7.0.8-14/Magick++/lib/.deps/Magick___lib_libMagick___7_Q16HDRI_la-Image.Plo" afterPath="$PROJECT_DIR$/ImageMagick-7.0.8-14/Magick++/lib/.deps/Magick___lib_libMagick___7_Q16HDRI_la-Image.Plo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ImageMagick-7.0.8-14/Magick++/lib/.deps/Magick___lib_libMagick___7_Q16HDRI_la-ImageRef.Plo" afterPath="$PROJECT_DIR$/ImageMagick-7.0.8-14/Magick++/lib/.deps/Magick___lib_libMagick___7_Q16HDRI_la-ImageRef.Plo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ImageMagick-7.0.8-14/Magick++/lib/.deps/Magick___lib_libMagick___7_Q16HDRI_la-Montage.Plo" afterPath="$PROJECT_DIR$/ImageMagick-7.0.8-14/Magick++/lib/.deps/Magick___lib_libMagick___7_Q16HDRI_la-Montage.Plo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ImageMagick-7.0.8-14/Magick++/lib/.deps/Magick___lib_libMagick___7_Q16HDRI_la-Options.Plo" afterPath="$PROJECT_DIR$/ImageMagick-7.0.8-14/Magick++/lib/.deps/Magick___lib_libMagick___7_Q16HDRI_la-Options.Plo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ImageMagick-7.0.8-14/Magick++/lib/.deps/Magick___lib_libMagick___7_Q16HDRI_la-Pixels.Plo" afterPath="$PROJECT_DIR$/ImageMagick-7.0.8-14/Magick++/lib/.deps/Magick___lib_libMagick___7_Q16HDRI_la-Pixels.Plo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ImageMagick-7.0.8-14/Magick++/lib/.deps/Magick___lib_libMagick___7_Q16HDRI_la-ResourceLimits.Plo" afterPath="$PROJECT_DIR$/ImageMagick-7.0.8-14/Magick++/lib/.deps/Magick___lib_libMagick___7_Q16HDRI_la-ResourceLimits.Plo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ImageMagick-7.0.8-14/Magick++/lib/.deps/Magick___lib_libMagick___7_Q16HDRI_la-STL.Plo" afterPath="$PROJECT_DIR$/ImageMagick-7.0.8-14/Magick++/lib/.deps/Magick___lib_libMagick___7_Q16HDRI_la-STL.Plo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ImageMagick-7.0.8-14/Magick++/lib/.deps/Magick___lib_libMagick___7_Q16HDRI_la-SecurityPolicy.Plo" afterPath="$PROJECT_DIR$/ImageMagick-7.0.8-14/Magick++/lib/.deps/Magick___lib_libMagick___7_Q16HDRI_la-SecurityPolicy.Plo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ImageMagick-7.0.8-14/Magick++/lib/.deps/Magick___lib_libMagick___7_Q16HDRI_la-Statistic.Plo" afterPath="$PROJECT_DIR$/ImageMagick-7.0.8-14/Magick++/lib/.deps/Magick___lib_libMagick___7_Q16HDRI_la-Statistic.Plo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ImageMagick-7.0.8-14/Magick++/lib/.deps/Magick___lib_libMagick___7_Q16HDRI_la-Thread.Plo" afterPath="$PROJECT_DIR$/ImageMagick-7.0.8-14/Magick++/lib/.deps/Magick___lib_libMagick___7_Q16HDRI_la-Thread.Plo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ImageMagick-7.0.8-14/Magick++/lib/.deps/Magick___lib_libMagick___7_Q16HDRI_la-TypeMetric.Plo" afterPath="$PROJECT_DIR$/ImageMagick-7.0.8-14/Magick++/lib/.deps/Magick___lib_libMagick___7_Q16HDRI_la-TypeMetric.Plo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ImageMagick-7.0.8-14/Magick++/tests/.deps/Magick___tests_appendImages-appendImages.Po" afterPath="$PROJECT_DIR$/ImageMagick-7.0.8-14/Magick++/tests/.deps/Magick___tests_appendImages-appendImages.Po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ImageMagick-7.0.8-14/Magick++/tests/.deps/Magick___tests_attributes-attributes.Po" afterPath="$PROJECT_DIR$/ImageMagick-7.0.8-14/Magick++/tests/.deps/Magick___tests_attributes-attributes.Po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ImageMagick-7.0.8-14/Magick++/tests/.deps/Magick___tests_averageImages-averageImages.Po" afterPath="$PROJECT_DIR$/ImageMagick-7.0.8-14/Magick++/tests/.deps/Magick___tests_averageImages-averageImages.Po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ImageMagick-7.0.8-14/Magick++/tests/.deps/Magick___tests_coalesceImages-coalesceImages.Po" afterPath="$PROJECT_DIR$/ImageMagick-7.0.8-14/Magick++/tests/.deps/Magick___tests_coalesceImages-coalesceImages.Po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ImageMagick-7.0.8-14/Magick++/tests/.deps/Magick___tests_coderInfo-coderInfo.Po" afterPath="$PROJECT_DIR$/ImageMagick-7.0.8-14/Magick++/tests/.deps/Magick___tests_coderInfo-coderInfo.Po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ImageMagick-7.0.8-14/Magick++/tests/.deps/Magick___tests_color-color.Po" afterPath="$PROJECT_DIR$/ImageMagick-7.0.8-14/Magick++/tests/.deps/Magick___tests_color-color.Po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ImageMagick-7.0.8-14/Magick++/tests/.deps/Magick___tests_colorHistogram-colorHistogram.Po" afterPath="$PROJECT_DIR$/ImageMagick-7.0.8-14/Magick++/tests/.deps/Magick___tests_colorHistogram-colorHistogram.Po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ImageMagick-7.0.8-14/Magick++/tests/.deps/Magick___tests_exceptions-exceptions.Po" afterPath="$PROJECT_DIR$/ImageMagick-7.0.8-14/Magick++/tests/.deps/Magick___tests_exceptions-exceptions.Po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ImageMagick-7.0.8-14/Magick++/tests/.deps/Magick___tests_geometry-geometry.Po" afterPath="$PROJECT_DIR$/ImageMagick-7.0.8-14/Magick++/tests/.deps/Magick___tests_geometry-geometry.Po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ImageMagick-7.0.8-14/Magick++/tests/.deps/Magick___tests_montageImages-montageImages.Po" afterPath="$PROJECT_DIR$/ImageMagick-7.0.8-14/Magick++/tests/.deps/Magick___tests_montageImages-montageImages.Po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ImageMagick-7.0.8-14/Magick++/tests/.deps/Magick___tests_morphImages-morphImages.Po" afterPath="$PROJECT_DIR$/ImageMagick-7.0.8-14/Magick++/tests/.deps/Magick___tests_morphImages-morphImages.Po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ImageMagick-7.0.8-14/Magick++/tests/.deps/Magick___tests_readWriteBlob-readWriteBlob.Po" afterPath="$PROJECT_DIR$/ImageMagick-7.0.8-14/Magick++/tests/.deps/Magick___tests_readWriteBlob-readWriteBlob.Po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ImageMagick-7.0.8-14/Magick++/tests/.deps/Magick___tests_readWriteImages-readWriteImages.Po" afterPath="$PROJECT_DIR$/ImageMagick-7.0.8-14/Magick++/tests/.deps/Magick___tests_readWriteImages-readWriteImages.Po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ImageMagick-7.0.8-14/MagickWand/.deps/MagickWand_libMagickWand_7_Q16HDRI_la-convert.Plo" afterPath="$PROJECT_DIR$/ImageMagick-7.0.8-14/MagickWand/.deps/MagickWand_libMagickWand_7_Q16HDRI_la-convert.Plo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ImageMagick-7.0.8-14/MagickWand/.deps/MagickWand_libMagickWand_7_Q16HDRI_la-deprecate.Plo" afterPath="$PROJECT_DIR$/ImageMagick-7.0.8-14/MagickWand/.deps/MagickWand_libMagickWand_7_Q16HDRI_la-deprecate.Plo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ImageMagick-7.0.8-14/MagickWand/.deps/MagickWand_libMagickWand_7_Q16HDRI_la-display.Plo" afterPath="$PROJECT_DIR$/ImageMagick-7.0.8-14/MagickWand/.deps/MagickWand_libMagickWand_7_Q16HDRI_la-display.Plo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ImageMagick-7.0.8-14/MagickWand/.deps/MagickWand_libMagickWand_7_Q16HDRI_la-drawing-wand.Plo" afterPath="$PROJECT_DIR$/ImageMagick-7.0.8-14/MagickWand/.deps/MagickWand_libMagickWand_7_Q16HDRI_la-drawing-wand.Plo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ImageMagick-7.0.8-14/MagickWand/.deps/MagickWand_libMagickWand_7_Q16HDRI_la-identify.Plo" afterPath="$PROJECT_DIR$/ImageMagick-7.0.8-14/MagickWand/.deps/MagickWand_libMagickWand_7_Q16HDRI_la-identify.Plo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ImageMagick-7.0.8-14/MagickWand/.deps/MagickWand_libMagickWand_7_Q16HDRI_la-import.Plo" afterPath="$PROJECT_DIR$/ImageMagick-7.0.8-14/MagickWand/.deps/MagickWand_libMagickWand_7_Q16HDRI_la-import.Plo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ImageMagick-7.0.8-14/MagickWand/.deps/MagickWand_libMagickWand_7_Q16HDRI_la-magick-cli.Plo" afterPath="$PROJECT_DIR$/ImageMagick-7.0.8-14/MagickWand/.deps/MagickWand_libMagickWand_7_Q16HDRI_la-magick-cli.Plo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ImageMagick-7.0.8-14/MagickWand/.deps/MagickWand_libMagickWand_7_Q16HDRI_la-magick-image.Plo" afterPath="$PROJECT_DIR$/ImageMagick-7.0.8-14/MagickWand/.deps/MagickWand_libMagickWand_7_Q16HDRI_la-magick-image.Plo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ImageMagick-7.0.8-14/MagickWand/.deps/MagickWand_libMagickWand_7_Q16HDRI_la-magick-property.Plo" afterPath="$PROJECT_DIR$/ImageMagick-7.0.8-14/MagickWand/.deps/MagickWand_libMagickWand_7_Q16HDRI_la-magick-property.Plo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ImageMagick-7.0.8-14/MagickWand/.deps/MagickWand_libMagickWand_7_Q16HDRI_la-magick-wand.Plo" afterPath="$PROJECT_DIR$/ImageMagick-7.0.8-14/MagickWand/.deps/MagickWand_libMagickWand_7_Q16HDRI_la-magick-wand.Plo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ImageMagick-7.0.8-14/MagickWand/.deps/MagickWand_libMagickWand_7_Q16HDRI_la-mogrify.Plo" afterPath="$PROJECT_DIR$/ImageMagick-7.0.8-14/MagickWand/.deps/MagickWand_libMagickWand_7_Q16HDRI_la-mogrify.Plo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ImageMagick-7.0.8-14/MagickWand/.deps/MagickWand_libMagickWand_7_Q16HDRI_la-montage.Plo" afterPath="$PROJECT_DIR$/ImageMagick-7.0.8-14/MagickWand/.deps/MagickWand_libMagickWand_7_Q16HDRI_la-montage.Plo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ImageMagick-7.0.8-14/MagickWand/.deps/MagickWand_libMagickWand_7_Q16HDRI_la-operation.Plo" afterPath="$PROJECT_DIR$/ImageMagick-7.0.8-14/MagickWand/.deps/MagickWand_libMagickWand_7_Q16HDRI_la-operation.Plo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ImageMagick-7.0.8-14/MagickWand/.deps/MagickWand_libMagickWand_7_Q16HDRI_la-pixel-iterator.Plo" afterPath="$PROJECT_DIR$/ImageMagick-7.0.8-14/MagickWand/.deps/MagickWand_libMagickWand_7_Q16HDRI_la-pixel-iterator.Plo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ImageMagick-7.0.8-14/MagickWand/.deps/MagickWand_libMagickWand_7_Q16HDRI_la-pixel-wand.Plo" afterPath="$PROJECT_DIR$/ImageMagick-7.0.8-14/MagickWand/.deps/MagickWand_libMagickWand_7_Q16HDRI_la-pixel-wand.Plo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ImageMagick-7.0.8-14/MagickWand/.deps/MagickWand_libMagickWand_7_Q16HDRI_la-script-token.Plo" afterPath="$PROJECT_DIR$/ImageMagick-7.0.8-14/MagickWand/.deps/MagickWand_libMagickWand_7_Q16HDRI_la-script-token.Plo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ImageMagick-7.0.8-14/MagickWand/.deps/MagickWand_libMagickWand_7_Q16HDRI_la-stream.Plo" afterPath="$PROJECT_DIR$/ImageMagick-7.0.8-14/MagickWand/.deps/MagickWand_libMagickWand_7_Q16HDRI_la-stream.Plo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ImageMagick-7.0.8-14/MagickWand/.deps/MagickWand_libMagickWand_7_Q16HDRI_la-wand-view.Plo" afterPath="$PROJECT_DIR$/ImageMagick-7.0.8-14/MagickWand/.deps/MagickWand_libMagickWand_7_Q16HDRI_la-wand-view.Plo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ImageMagick-7.0.8-14/MagickWand/.deps/MagickWand_libMagickWand_7_Q16HDRI_la-wand.Plo" afterPath="$PROJECT_DIR$/ImageMagick-7.0.8-14/MagickWand/.deps/MagickWand_libMagickWand_7_Q16HDRI_la-wand.Plo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ImageMagick-7.0.8-14/MagickWand/.deps/MagickWand_libMagickWand_7_Q16HDRI_la-wandcli.Plo" afterPath="$PROJECT_DIR$/ImageMagick-7.0.8-14/MagickWand/.deps/MagickWand_libMagickWand_7_Q16HDRI_la-wandcli.Plo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ImageMagick-7.0.8-14/tests/.deps/tests_drawtest-drawtest.Po" afterPath="$PROJECT_DIR$/ImageMagick-7.0.8-14/tests/.deps/tests_drawtest-drawtest.Po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ImageMagick-7.0.8-14/tests/.deps/tests_validate-validate.Po" afterPath="$PROJECT_DIR$/ImageMagick-7.0.8-14/tests/.deps/tests_validate-validate.Po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ImageMagick-7.0.8-14/tests/.deps/tests_wandtest-wandtest.Po" afterPath="$PROJECT_DIR$/ImageMagick-7.0.8-14/tests/.deps/tests_wandtest-wandtest.Po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ImageMagick-7.0.8-14/utilities/.deps/magick.Po" afterPath="$PROJECT_DIR$/ImageMagick-7.0.8-14/utilities/.deps/magick.Po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/uploaders/picture_uploader.rb" afterPath="$PROJECT_DIR$/app/uploaders/picture_uploader.rb" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
@@ -108,8 +152,8 @@
       <file leaf-file-name="picture_uploader.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/uploaders/picture_uploader.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="4" column="36" lean-forward="false" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+            <state relative-caret-position="100">
+              <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -957,12 +1001,12 @@
       <workItem from="1540355447820" duration="197000" />
       <workItem from="1540355661546" duration="17412000" />
       <workItem from="1540440570886" duration="3138000" />
-      <workItem from="1540448509650" duration="11823000" />
+      <workItem from="1540448509650" duration="12311000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33719000" />
+    <option name="totallyTimeSpent" value="34207000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="30" width="929" height="1050" extended-state="0" />
@@ -1406,8 +1450,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/uploaders/picture_uploader.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" column="36" lean-forward="false" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+        <state relative-caret-position="100">
+          <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
           <folding />
         </state>
       </provider>
